@@ -1,12 +1,18 @@
 /**
- * OOPS Banner App - Use Case 1
+ * OOPS Banner App - Use Case 2
  *
  * @author Ishita Singh
- * @version 1.0
+ * @version 2.0
  */
 public class OOPSBannerApp {
 
     public static void main(String[] args) {
-        System.out.println("OOPS");
+        System.out.println(" *****   ****   ****   ***** ");
+        System.out.println(" *     * *   * *   * *     ");
+        System.out.println(" *     * *   * *   * *     ");
+        System.out.println(" *****   ****  *   *  ***** ");
+        System.out.println("       * *     *   *      * ");
+        System.out.println("       * *     *   *      * ");
+        System.out.println(" *****   ***   *   *  ***** ");
     }
 }
